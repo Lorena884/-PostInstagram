@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Instagram Medium";
+    src: url(./objetos/InstagramSans-Medium.ttf);
+}
+
+.fuente{
+    font-family: "Instagram Medium" !important;
+}
+
+
+body{
+    height: 100vh !important;
+}
+
+.card{
+    border-radius: 0px;
+    border-color: black;
+}
+
+.profile{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.card-header{
+    background-color: white;
+    border-color: black;
+}
